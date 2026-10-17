@@ -39,7 +39,7 @@ The database includes sample records designed to help you practice filtering, jo
 ## Getting Started
 
 1. Set up an Oracle AI Database 26ai environment.
-2. Download the `learn_sql_14_days_setup.sql` file from this repository.
+2. [Download the SQL setup script](learn_sql_14_days_setup.sql).
 3. Connect to your database using SQL*Plus or another Oracle SQL-compatible tool.
 4. Run the setup script to create the tables and insert the sample data.
 5. Follow along with the video lessons and practice the SQL queries.
